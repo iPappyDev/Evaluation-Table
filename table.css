@@ -1,0 +1,19 @@
+*{
+    color: white;
+}
+button{
+    color: black;
+}
+input{
+    color: black;
+    border-radius: 10%;
+
+}
+section{
+    padding-top: 50px;
+}
+body{
+    background-image: url(calc.jpeg);
+    background-repeat: repeat;
+    background-size: cover;
+}
